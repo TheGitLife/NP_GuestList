@@ -21,13 +21,16 @@ import {
   Label
 } from "native-base";
 
+import moment from 'moment';
 import ReactNative from 'react-native';
-const {  
+const {
 	View,
 	StyleSheet,
 	TouchableOpacity,
 	Image
 } = ReactNative;
+
+import DateTimePicker from 'react-native-modal-datetime-picker';
 
 import {connect} from 'react-redux';
 import {bindActionCreators} from 'redux';
@@ -37,6 +40,22 @@ import * as eventActions from '../../modules/event';
  *  component
  */
 class CreateEvent extends Component {
+
+   _showDateTimePicker = () => this.setState({ isDateTimePickerVisible: true });
+
+  _hideDateTimePicker = () => this.setState({ isDateTimePickerVisible: false });
+
+  _handleDatePicked = (date) => {
+
+    this._hideDateTimePicker();
+
+    dateValue = moment(date).format('MMM D, YYYY h:mmA (dddd)');
+    console.log('A date has been picked: ', dateValue);
+
+    this.setState({
+      dateTime: String(dateValue)
+    });
+  };
 
 	static navigationOptions = ({ navigation }) => ({
 	    header: (
@@ -60,9 +79,9 @@ class CreateEvent extends Component {
 
   		this.state = {
   			title: '',
-  			description: '',
   			dateTime: '',
-  			location: ''
+  			location: '',
+        isDateTimePickerVisible: false
   		}
   	}
 
@@ -75,10 +94,10 @@ class CreateEvent extends Component {
 	}
 
   	/**
-   	 * Render 
+   	 * Render
    	 * @return {jsxresult} result in jsx format
    	*/
-	render() {		
+	render() {
 
 		const listData = [
 			{
@@ -101,6 +120,8 @@ class CreateEvent extends Component {
 			}
 		]
 
+    moment.locale('en');
+
 		return (
 			<Container style={{backgroundColor:'white'}}>
 	        	<Grid>
@@ -114,23 +135,21 @@ class CreateEvent extends Component {
 									});
 								}} />
 							</Item>
-							
-							<Label style={{marginLeft: 20, marginTop: 20}}>Description</Label>
-							<Item>
-								<Input onChangeText={(text)=>{
-									this.setState({
-										description: text
-									});
-								}} />
-							</Item>
 
 							<Label style={{marginLeft: 20, marginTop: 20}}>Date/Time</Label>
 							<Item>
-								<Input onChangeText={(text)=>{
-									this.setState({
-										dateTime: text
-									});
-								}} />
+								<Input onChangeText={(text)=>{this.setState({dateTime: text});}}
+                onFocus={this._showDateTimePicker}
+                value={this.state.dateTime}
+                />
+
+                <DateTimePicker
+                  isVisible={this.state.isDateTimePickerVisible}
+                  onConfirm={this._handleDatePicked}
+                  onCancel={this._hideDateTimePicker}
+                  mode="datetime"
+                  minimumDate={new Date()}
+                />
 							</Item>
 
 							<Label style={{marginLeft: 20, marginTop: 20}}>Location</Label>
@@ -145,7 +164,6 @@ class CreateEvent extends Component {
 							<Button full dark style={{margin: 20, marginTop: 30}} onPress={()=>{
 								this.props.eventActions.addEvent({
 									title: this.state.title,
-									description: this.state.description,
 									dateTime: this.state.dateTime,
 									location: this.state.location
 								});
@@ -153,7 +171,7 @@ class CreateEvent extends Component {
 							}}>
 								<Text>Create Event</Text>
 							</Button>
-						</Form>						
+						</Form>
 			        </Content>
 		        </Grid>
 		    </Container>

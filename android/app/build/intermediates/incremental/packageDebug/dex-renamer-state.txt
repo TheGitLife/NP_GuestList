@@ -1,4 +1,4 @@
-#Tue Oct 24 01:49:12 EEST 2017
-base.0=F\:\\7_Audri\\0_Mikhail\\1_dheeraj\\EventsProject\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Sun Oct 29 22:17:27 PDT 2017
+base.0=/home/pifactor/Code/Checkinapp/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=F\:\\7_Audri\\0_Mikhail\\1_dheeraj\\EventsProject\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=/home/pifactor/Code/Checkinapp/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

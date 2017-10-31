@@ -1,6 +1,10 @@
 [
     {
-        "merged": "F:\\7_Audri\\0_Mikhail\\1_dheeraj\\EventsProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "F:\\7_Audri\\0_Mikhail\\1_dheeraj\\EventsProject\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color-v23\\abc_color_highlight_material.xml"
+        "merged": "/home/pifactor/Code/Checkinapp/android/F:\\7_Audri\\0_Mikhail\\1_dheeraj\\EventsProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "/home/pifactor/Code/Checkinapp/android/F:\\7_Audri\\0_Mikhail\\1_dheeraj\\EventsProject\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/pifactor/Code/Checkinapp/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/pifactor/Code/Checkinapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v23/abc_color_highlight_material.xml"
     }
 ]

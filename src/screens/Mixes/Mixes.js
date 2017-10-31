@@ -30,7 +30,7 @@ import {
 
 import { Col, Row, Grid } from 'react-native-easy-grid';
 
-const {  
+const {
 	View,
 	StyleSheet,
 	TouchableOpacity,
@@ -43,9 +43,9 @@ const {
  */
 
 function renderHeader(navigation) {
-	const isSearch = 
+	const isSearch =
 		navigation.state.params && navigation.state.params.isSearch ? true : false;
-	const eventCount = 
+	const eventCount =
 		navigation.state.params && navigation.state.params.eventCount
 			? navigation.state.params.eventCount
 			: false;
@@ -99,11 +99,11 @@ function renderHeader(navigation) {
 
 class Mixes extends Component {
 
-	static navigationOptions = ({ navigation }) => ({		
+	static navigationOptions = ({ navigation }) => ({
 		header: (
 			renderHeader(navigation)
 		)
-	});	
+	});
 
 	constructor(props) {
 		super(props);
@@ -111,7 +111,7 @@ class Mixes extends Component {
 		this.state = {
 			sString: ''
 		}
-	}	
+	}
 	componentWillMount() {
 		this.props.navigation.setParams({
             isSearch: false,
@@ -124,7 +124,7 @@ class Mixes extends Component {
     componentDidMount() {
   		this.props.eventActions.fetchEvent();
   	}
-  	
+
   	componentWillReceiveProps(nextProps) {
   		if( this.props.loading && nextProps.loading === false ) {
   			this.props.navigation.setParams({
@@ -149,7 +149,7 @@ class Mixes extends Component {
     	});
     	this.searchString = '';
     }
-    
+
   /**
    * Render Mixes
    * @return {jsxresult} result in jsx format
@@ -167,10 +167,10 @@ class Mixes extends Component {
 		let eventList = listData.map((item, index)=>{
 			if (sString =='' || item.event_name.indexOf(sString) != -1) {
 				eventCount++;
-				return (	          				
+				return (
   				<View style={[styles.listItem, styles.lastItem]} key={index}>
         			<TouchableOpacity style={{flex:1}} onPress={() => {
-    					this.props.navigation.navigate("DetailEvent", { 
+    					this.props.navigation.navigate("DetailEvent", {
     						detailEventId: item.event_id
     					});
         			}}>
@@ -178,7 +178,7 @@ class Mixes extends Component {
 			                <Image
 			                  resizeMode="stretch"
 			                  style={{ flex: 1, height: undefined, width: undefined }}
-			                  source={{ uri: item.image }}
+			                  source={{ uri: item.event_background }}
 			                >
 			                	<EventListItemTextContainer>
 				                    <Text style={{ fontSize: 20, color: "white" }}>
@@ -186,7 +186,7 @@ class Mixes extends Component {
 				                    </Text>
 				                    <Text
 				                      style={{ fontSize: 13, color: "white", marginTop: 10 }}
-				                    >{`${item.date} - ${item.location}`}</Text>
+				                    >{`${item.event_date} - ${item.event_location}`}</Text>
 			                  	</EventListItemTextContainer>
 			                </Image>
 			            </EventListItemContainer>

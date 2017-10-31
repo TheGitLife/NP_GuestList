@@ -3,201 +3,201 @@
 
     <item
         is-multidex="false"
-        jar="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_ec3b0ec296a01ff527725318e66c12765be3fc26.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\kyc1988\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_c33eab23cacb9e506bf4ea63f91bb0253469924e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_8fd40c765d6c9114f3fc8b9a2edc494f0536a62d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_d800603751231ec03a7f005243e70ca3e97fd360.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\kyc1988\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_6df8122d64782010b39b18d7fd83005f54bc5c29.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\kyc1988\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_17725c8f74eb7082067e8ca96ee20412a7073d2d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_c2b2cbc4621ca57c4daa264d815556a0d1eea093.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_0608757e7123743aa2e32af55a18d38b6e6533e8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\kyc1988\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_ee7cccc18719d7a99d869f1a265f841a20898fb5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_aa9501783f83eab536cfd7b95ce3e1da1386237c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_88b32abc159a2d204a1f0aeae9aa920dcebe6b11.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jar="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_9e1afbb6c696246cee7eb6518f101f19fd9e5678.jar" />
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_d0149a4d955217222186aeb7db1f3f88a3cc77b8.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\kyc1988\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jar="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_2aa3105d8b8c27dbbf83cba27ed2a6b67da640fa.jar" />
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_f52cc7bd9e7ea04672209337b13170669a863bef.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\kyc1988\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_fbb8cd4ebb95034137a780c2685a88bf2eb5465c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jar="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_5f88b711b914d42971f946e481fc4b6343c964fb.jar" />
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_9c5bd0633d0b632f76996a200e1133811da5b9a8.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.48.4\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="56d3e81fee5f47a7a12ab65f4620f580c9c71d1e">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.48.4_bb1035c0f563cf2d4ab17ca97447165ac7c7c029.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_c5136538f3e29fe237f5f0a298d7d27990538a1c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\exploded-aar\EventsProject\react-native-vector-icons\unspecified\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\EventsProject-react-native-vector-icons-unspecified_6b9ff2960d2875b483756a65c391394d7a8cbc14.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\kyc1988\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jar="/home/pifactor/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_13d757d558194d6987c7b89c5818240f6afa6aac.jar" />
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_348e5b66dafe6cd089d02b206b815160c37251b1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\kyc1988\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_12b6e42160eb25f7c71940978ac62a4e76272746.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jar="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_11b78a5a958d6f7d41ea5a28e1651b03f80a581e.jar" />
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_ad0541fdb816223cb272a2a1a20bf930abafcdbb.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.48.4\jars\libs\infer-annotations-4.0.jar"
+        jar="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_83be61728341de67c9f88f1bac740bd2fd93365e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pifactor/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_7c16cc3e55683109dc3647004b3d56b41533d33b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_b5de75fe3038052a88df85f989de06ff4e3e5d78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_c18be64ea77d168abdc7ebe7bc3e357324f609ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pifactor/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_27f820a8f77b256b111d59567fe332b04d5f3ab3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pifactor/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_9eb612dfc7161cd7904c34088ef24facbd4010bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_f015cd805ce0e25067b4bee3b1ad9bba7b7dc355.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/exploded-aar/EventsProject/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="722e34ba5d4009c2551aca051aee8bd56cbdc19c">
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/EventsProject-react-native-vector-icons-unspecified_cf8e0e6dd368679d88646076f26bbce8664ed01d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pifactor/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_8f7114cf08bc30cbf94a5e8d9ea485b2c2d41b3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.4/jars/libs/infer-annotations-4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_c1b9eb8ae3f79bc3fafd0bbaab909272a37b55d2.jar" />
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_5e3bdce608e50d240f30b02cefe81230d269bf96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pifactor/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_977b93d6dc181dc5a4cd6407ccb7dff7b1a7da36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_232252a746fb1cfaf6176a094ef8fc7ac07a0b7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pifactor/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_290bad156372b6b6c5dd875be5004581068e43de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_d11bb1162ae69c579fbc3c196705320e92587760.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pifactor/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_19d3bc46ec0f3ac4e79e105212510dee103c1c5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="56d3e81fee5f47a7a12ab65f4620f580c9c71d1e">
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.48.4_3e673a63b2d56b34260b7cd005e661b424888cbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/pifactor/Code/Checkinapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_e9f396b4c4b7ac18463aad16e0f4b4c87d6a0f54.jar" />
     </item>
 
 </items>

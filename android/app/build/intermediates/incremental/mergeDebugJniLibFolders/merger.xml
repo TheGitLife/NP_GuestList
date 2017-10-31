@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="F:\7_Audri\0_Mikhail\1_dheeraj\EventsProject\android\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/pifactor/Code/Checkinapp/android/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/pifactor/Code/Checkinapp/android/app/src/debug/jniLibs"/></dataSet></merger>
