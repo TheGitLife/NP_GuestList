@@ -75,13 +75,14 @@ class CreateEvent extends Component {
   	});
 
   	constructor(props) {
-  		super(props);
+			super(props);
 
   		this.state = {
   			title: '',
   			dateTime: '',
   			location: '',
-        isDateTimePickerVisible: false
+				isDateTimePickerVisible: false,
+				npid: props.navigation.state.params.npid
   		}
   	}
 
@@ -165,7 +166,8 @@ class CreateEvent extends Component {
 								this.props.eventActions.addEvent({
 									title: this.state.title,
 									dateTime: this.state.dateTime,
-									location: this.state.location
+									location: this.state.location,
+									npid: this.state.npid
 								});
 								this.props.navigation.goBack();
 							}}>

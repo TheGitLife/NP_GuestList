@@ -109,7 +109,8 @@ class Mixes extends Component {
 		super(props);
 		this.searchString = '';
 		this.state = {
-			sString: ''
+			sString: '',
+			npid: 'asha_seattle_id'
 		}
 	}
 	componentWillMount() {
@@ -122,7 +123,7 @@ class Mixes extends Component {
     }
 
     componentDidMount() {
-  		this.props.eventActions.fetchEvent();
+  		this.props.eventActions.fetchEvent(this.state.npid);
   	}
 
   	componentWillReceiveProps(nextProps) {
@@ -219,7 +220,7 @@ class Mixes extends Component {
           				this.setState({
           					sString: ''
           				});
-          				this.props.navigation.navigate("CreateEvent");
+          				this.props.navigation.navigate("CreateEvent", { npid: this.state.npid });
           			}} />
           		</View>
 		    </Container>
